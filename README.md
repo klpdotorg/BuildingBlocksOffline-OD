@@ -1,2 +1,2 @@
 # BuildingBlocksOffline-OD 
-This is Building Blocks complete offline version in Tamil. All the assets are available in local.
+This is Building Blocks complete offline version in Odiya. All the assets are available in local.
